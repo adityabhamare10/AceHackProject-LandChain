@@ -15,10 +15,10 @@ For years, the roots of land ownership fraud have been sown deep, with people cl
 
 
 # Technologies Used
-* Solidity * React * Javascript * Ethers.js * Web3 * Talwind CSS * Hardhat * Polygon Mumbai Testnet * Cleark * Wormhole
+Solidity | React | Javascript | Ethers.js | Web3 | Talwind CSS | Hardhat | Polygon Mumbai Testnet | Cleark | Wormhole
 
 # Screenshot
-<img src="https://github.com/adityabhamare10/AceHackProject-LandChain/assets/108888187/f4723537-eb51-498c-857f-a1764618a387" width="300">
+<img src="https://github.com/adityabhamare10/AceHackProject-LandChain/assets/108888187/f4723537-eb51-498c-857f-a1764618a387" width="500">
 <img src= "https://github.com/adityabhamare10/AceHackProject-LandChain/assets/108888187/0ccb032a-5372-4f27-a838-31f457428cd4" width="300">
 <img src= "https://github.com/adityabhamare10/AceHackProject-LandChain/assets/108888187/0e78f311-9fbc-49e1-a65a-d8453c908c86" width="300">
 <img src= "https://github.com/adityabhamare10/AceHackProject-LandChain/assets/108888187/9be42be9-f9e1-4e4e-b643-d00ea2f4f551" width="300">
