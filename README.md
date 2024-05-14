@@ -25,7 +25,7 @@ Solidity | React | Javascript | Ethers.js | Web3 | Talwind CSS | Hardhat | Polyg
 <img src= "https://github.com/adityabhamare10/AceHackProject-LandChain/assets/108888187/0ccb032a-5372-4f27-a838-31f457428cd4" width="300">
 
 # Video Demo
-<video src ="https://www.loom.com/share/aea611b666d64746a5def60fcdcf7e14?sid=f2e430cd-2fc7-464c-ae9f-aa5ba85b3026">
+https://www.loom.com/share/aea611b666d64746a5def60fcdcf7e14?sid=f2e430cd-2fc7-464c-ae9f-aa5ba85b3026
 
 
 
